@@ -1,0 +1,47 @@
+body{
+    background-color: bisque;
+
+    background-repeat:no-repeat;
+    background-attachment:scroll;
+}
+.centering{
+    text-align: center;
+    color: rgba(0, 255, 102, 0.845);
+    text-decoration: underline;
+    text-shadow: 5px 6px 9px black;
+
+}
+
+section{
+    text-align: center;
+}
+.video{
+    height: 200px;
+    width: 400px;
+    border: 5px dotted gray;
+}
+a:active{
+    color: honeydew;
+}
+span{
+    display: inline;
+}
+.login-btn{
+   position: relative;
+
+   left: 1340px;
+   
+
+}
+.login-page{
+    height: auto;
+    width: 11%;
+    position:sticky;
+    
+    left: 45%;
+    bottom: 50%;
+    border-color:blue;
+    border-right:65%;
+    border-style:double;
+    border-radius: 5px 5px;
+}
